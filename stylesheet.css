@@ -4,7 +4,7 @@ body{
     background-image: url(https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTYzfHx3aGl0ZSUyMHRhaWxlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
     background-size: cover;
     position:relative;
-    
+    height:100vh;
 }
 
 header{
